@@ -2,6 +2,7 @@
   "name": "worker-nuxt-test",
   "type": "module",
   "private": true,
+  "packageManager": "pnpm@11.3.0",
   "scripts": {
     "build": "env && nuxt build",
     "dev": "nuxt dev",
